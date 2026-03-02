@@ -1,1 +1,1 @@
-# gw-sensitivity-sim
+# gw-sens-sim
